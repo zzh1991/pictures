@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: clarikageo-medium
+font link: https://www.fontspring.com/fonts/the-refinery/clarika/clarika-geometric-medium
+font author: The Refinery
+font author site: https://www.refinerybrand.com/
+
+
+icon designer: Vectors Market
+icon designer link: /vectorsmarket
+        
+{"bg-gradient-0":"#21690F","bg-gradient-1":"#88C848","icon":"#ffffff","font":"#ffffff","slogan":"#ffffff"}
+      
